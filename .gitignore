@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.so
+*.o
+mnist_X.npy
+mnist_y.npy
+test_cpp.py
+explore.py
